@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**rtzra/rtzra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+I'm Evgeny Cheremnykh, from [Innopolis](https://innopolis.ru/en/ "Innopolis"), Russian Federation, Tatarstan republic.
 
-Here are some ideas to get you started:
+#### ⚡ Skills
+- Senior Windows System Administrator (Windows NT4 - till now)
+- Senior Linux System Administrator (Ubuntu/Debian, RedHat, CentOS)
+- DevOps (Docker, Kubernetes, CI/CD (Gitlab, Jenkins), GitOps (ArgoCD), etc)
+- Script shell (sh, bash, powershell, regexp)
+- Work with server hardware HP, Dell, Supermicro, IBM, etc over 25 years
+- Work with network hardware Cisco, HP, D-link, Mikrotik, etc over 20 years
+- Networking skills (routing, switching, aggregation, DNS, DHCP, VRRP, VLAN, etc)
+- DBA Experience (PostgeSQL, Oracle, MS SQL)
+- Experience in VMware (vCenter), Hyper-V, Proxmox, etc
+- Experience in MS Exchange, Lotus Notes, Postfix, Exim, Dovecot, smtp and anti-spam solutions (Rspamd, SpamAssassin)
+- Expirience in Backup Solution (Veeam, Symantec, ArcServe, etc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me:
+- Email: [cheremnykhus@gmail.com](mailto:cheremnykhus@gmail.com "cheremnykhus@gmail.com")
+- Telegram: [rtzra](https://t.me/rtzra "rtzra")
+- My Wiki: https://rtzra.ru
