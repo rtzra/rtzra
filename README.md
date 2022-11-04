@@ -12,4 +12,4 @@ I'm Evgeny Cheremnykh, from Moscow, Russian Federation.
 #### 📫 How to reach me:
 - Email: [cheremnykhus@gmail.com](mailto:cheremnykhus@gmail.com "cheremnykhus@gmail.com")
 - Telegram: [rtzra](https://t.me/rtzra "rtzra")
-- My Wiki: https://rtzra.ru
+- My Wiki (only Russian, sorry): https://rtzra.ru
